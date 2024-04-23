@@ -7,6 +7,7 @@
 You can clone the repository by running the following command:
 
 ```bash
+
 git clone https://github.com/beerose/edgedb-ai-booking-assistant.git
 ```
 

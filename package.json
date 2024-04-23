@@ -16,14 +16,17 @@
     "@edgedb/generate": "^0.4.1",
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
+    "add": "^2.0.6",
     "ai": "^3.0.7",
     "edgedb": "^1.4.1",
+    "edgeql-js": "^1.0.0",
     "next": "14.1.4",
     "openai": "^4.28.4",
     "react": "^18",
     "react-dom": "^18",
     "react-markdown": "^9.0.1",
     "tailwindcss-animate": "^1.0.7",
+    "webpack": "^5.91.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {
@@ -35,6 +38,7 @@
     "eslint-config-next": "14.2.0-canary.6",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "webpack-dev": "^1.1.1"
   }
 }
